@@ -11,29 +11,42 @@ body{
     
 }
 h1{
+    margin: 0;
     position: relative;
     color: black;
-    bottom: 100px;
+    bottom: 84px;
     left: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     -webkit-text-stroke: 2px white;
 }
 h2{
+    margin: 0;
     position: relative;
-    bottom: 90px;
+    bottom: 75px;
     color: black;
     left: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     -webkit-text-stroke: 2px white;  
 }
 h3{
+    margin: 0;
     position: relative;
     left: 84%;
-    bottom: 220px;
+    bottom: 150px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     -webkit-text-stroke: 2px white;
     font-size: 30px;
+}
+h4{
+    margin: 0;
+    color: black;
+    -webkit-text-stroke: 2px white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    position: relative;
+    bottom: 140px;
+    left: 84%;
 }
 footer{
     position: relative;
